@@ -26,7 +26,7 @@ Welcome to the **India's Tourist Places Website** project! This web application 
 
 - **Travel Itineraries**: Plan and organize travel itineraries based on the information provided.
 
-##Project link - https://blue-pebble-04243f010.4.azurestaticapps.net
+##Project link - https://victorious-flower-073b17910.4.azurestaticapps.net
 
 ## Screenshots:
 
