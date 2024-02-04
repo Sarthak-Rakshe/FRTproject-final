@@ -26,6 +26,8 @@ Welcome to the **India's Tourist Places Website** project! This web application 
 
 - **Travel Itineraries**: Plan and organize travel itineraries based on the information provided.
 
+##Project link - https://mango-bush-064ac2d00.4.azurestaticapps.net
+
 ## Screenshots:
 
 ![Screenshot (20)](https://github.com/Sarthak-Rakshe/FRTproject-final/assets/147545695/73046746-6fd7-49fc-bd88-275c3fbb185c)
